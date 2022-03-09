@@ -2,8 +2,7 @@
 
 ### De acordo com WCAG/W3C
 
-### 1.1
-  Text Alternatives
+#### 1.1 - Text Alternatives
 
 Exemplo:
 Site de notícias do jornal Folha, com descrição da foto exibida.
