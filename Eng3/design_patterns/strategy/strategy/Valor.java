@@ -1,5 +1,5 @@
 package strategy;
 
 public class Valor {
-    public double valor = 2.36;
+    public float valor = 2.22f;
 }

@@ -1,7 +1,7 @@
 package strategy;
 
 public class PedagioCarro implements Pedagio {
-    public void cobrar() {
+    public void pagar() {
         Valor v = new Valor();
         System.out.println("Carro de passeio: R$" + v.valor);
     }

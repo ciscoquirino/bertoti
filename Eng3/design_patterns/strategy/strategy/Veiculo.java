@@ -7,7 +7,7 @@ public class Veiculo {
         this.pedagio = pedagio;
     }
 
-    public void cobrarPedagio() {
-        this.pedagio.cobrar();
+    public void pagarPedagio() {
+        this.pedagio.pagar();
     }
 }
