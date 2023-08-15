@@ -1,8 +1,7 @@
 package strategy;
 
 public class PedagioCarro implements Pedagio {
-    public void pagar() {
-        Valor v = new Valor();
-        System.out.println("Carro de passeio: R$" + v.valor);
+    public void pagar(float vb) {
+        System.out.println("Carro de passeio: R$" + vb);
     }
 }
