@@ -38,7 +38,7 @@ public class View implements ActionListener, Observer{
 		cancelar = new JButton("Cancelar Assinatura");
 		labelBr = new JLabel();
 		labelArg = new JLabel();
-		brText = new JLabel("Brasil: BRL:");
+		brText = new JLabel("Brasil: BRL");
 		argText = new JLabel("Argentina: ARS");
 		
 		assinar.addActionListener(this);

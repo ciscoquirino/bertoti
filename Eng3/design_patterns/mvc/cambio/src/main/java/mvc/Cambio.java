@@ -11,14 +11,14 @@ public class Cambio {
         	public void run() {
         		model.setCambio("5.04", "355.86");
         	}
-        }, 5000);
+        }, 7000);
         
         final Timer timer2 = new Timer();
 	    timer2.schedule(new TimerTask() {
 	        public void run() {
 	        	model.setCambio("5.02", "357.30");
 	        }
-	    }, 10000);
+	    }, 15000);
         
     }
 }
